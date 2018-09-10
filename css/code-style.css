@@ -1,4 +1,5 @@
 .prettyprint {
+    width: initial;
     overflow-x: auto;
 }
 
@@ -7,10 +8,10 @@
 }
 
 li.L0, li.L1, li.L2, li.L3, li.L4, li.L5, li.L6, li.L7, li.L8, li.L9 {
-    color: #505050;
+    color: #808080;
     list-style-type: decimal;
 }
 
 li.L1, li.L3, li.L5, li.L7, li.L9 {
-    background: #151515;
+    background: #808080;
 }
